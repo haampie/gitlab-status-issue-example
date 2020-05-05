@@ -1,3 +1,7 @@
+image: ubuntu:18.04
+
 job:
+  tags:
+    - docker
   script:
     - exit 123
