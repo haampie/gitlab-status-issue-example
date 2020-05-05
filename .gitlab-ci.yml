@@ -1,0 +1,3 @@
+microservice_a:
+  trigger:
+    include: child.yml
